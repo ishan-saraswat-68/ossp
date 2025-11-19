@@ -236,9 +236,7 @@ Choose an algorithm based on your needs:
 - **Dependencies**: Standard C++ libraries, POSIX system calls (`gettimeofday`, `getopt`)
 - **Platform**: Unix-like systems (Linux, macOS)
 
-## Author
 
-Himank Chaudhary
 
 ## License
 
